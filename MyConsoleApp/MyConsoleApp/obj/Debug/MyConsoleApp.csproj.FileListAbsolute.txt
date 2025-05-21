@@ -1,0 +1,12 @@
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyClassLib.dll
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MyClassLib.pdb
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsol.4CA403AE.Up2Date
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MathLibrary.dll
+C:\Users\jahnvi.rawat\Source\Repos\MyConsoleApp\MyConsoleApp\bin\Debug\MathLibrary.pdb

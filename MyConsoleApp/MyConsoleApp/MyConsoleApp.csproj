@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E49EDCB9-EF1A-4DA7-BA00-75B67ED3760B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>MyConsoleApp</RootNamespace>
+    <AssemblyName>MyConsoleApp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="day10Delegates\builtinDel.cs" />
+    <Compile Include="day10Delegates\Clientcls.cs" />
+    <Compile Include="day10Delegates\covarianceDel.cs" />
+    <Compile Include="day10Delegates\DelegateDemo.cs" />
+    <Compile Include="day10Delegates\delRealtime.cs" />
+    <Compile Include="day10Delegates\multiCastDemo.cs" />
+    <Compile Include="day10Delegates\Servercls.cs" />
+    <Compile Include="day13Threads\ThreadDemo.cs" />
+    <Compile Include="day1\demo1.cs" />
+    <Compile Include="day2\ArrayDemo.cs" />
+    <Compile Include="day3\Employee.cs" />
+    <Compile Include="day4\InterDemo.cs" />
+    <Compile Include="day3\Ipl.cs" />
+    <Compile Include="day3\Login.cs" />
+    <Compile Include="day3\movies.cs" />
+    <Compile Include="day4\DynamicPolyDemo.cs" />
+    <Compile Include="day4\inheritanceDemo.cs" />
+    <Compile Include="day4\StaticPolyDemo.cs" />
+    <Compile Include="day6\languageFeature - Copy.cs" />
+    <Compile Include="day6\p1.cs" />
+    <Compile Include="day6\p2.cs" />
+    <Compile Include="day7\CollectionDemo.cs" />
+    <Compile Include="day7\EmployeeList.cs" />
+    <Compile Include="day7\GenDemo.cs" />
+    <Compile Include="day7\Product.cs" />
+    <Compile Include="day8\BinaryTreeDemo.cs" />
+    <Compile Include="day8\constDemo.cs" />
+    <Compile Include="day8\CopyConstructorDemo.cs" />
+    <Compile Include="day8\LinkedListDemo.cs" />
+    <Compile Include="day8\LinqDemo.cs" />
+    <Compile Include="dayFile\FileDemo.cs" />
+    <Compile Include="firstClass.cs" />
+    <Compile Include="ParamDemo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MathLibrary\MathLibrary.csproj">
+      <Project>{db1ee1b6-8e1a-4864-8817-f669aacd7550}</Project>
+      <Name>MathLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyClassLib\MyClassLib.csproj">
+      <Project>{31c8e38d-30a1-498b-b241-66262a7ed724}</Project>
+      <Name>MyClassLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

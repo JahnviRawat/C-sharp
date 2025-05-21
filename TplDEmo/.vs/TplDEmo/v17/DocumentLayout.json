@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433A4B67-93A7-4749-AE89-581734B6CC71}|TplDEmo\\TplDEmo.csproj|c:\\users\\jahnvi.rawat\\source\\repos\\tpldemo\\tpldemo\\dayserialization\\reflectiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A4B67-93A7-4749-AE89-581734B6CC71}|TplDEmo\\TplDEmo.csproj|solutionrelative:tpldemo\\dayserialization\\reflectiondemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}|OtherClass\\OtherClass.csproj|c:\\users\\jahnvi.rawat\\source\\repos\\tpldemo\\otherclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}|OtherClass\\OtherClass.csproj|solutionrelative:otherclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A4B67-93A7-4749-AE89-581734B6CC71}|TplDEmo\\TplDEmo.csproj|C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\tpldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A4B67-93A7-4749-AE89-581734B6CC71}|TplDEmo\\TplDEmo.csproj|solutionrelative:tpldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\OtherClass\\Class1.cs",
+              "RelativeDocumentMoniker": "OtherClass\\Class1.cs",
+              "ToolTip": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\OtherClass\\Class1.cs",
+              "RelativeToolTip": "OtherClass\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:46:01.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReflectionDemo.cs",
+              "DocumentMoniker": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\TplDEmo\\daySerialization\\ReflectionDemo.cs",
+              "RelativeDocumentMoniker": "TplDEmo\\daySerialization\\ReflectionDemo.cs",
+              "ToolTip": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\TplDEmo\\daySerialization\\ReflectionDemo.cs",
+              "RelativeToolTip": "TplDEmo\\daySerialization\\ReflectionDemo.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowE4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:28:52.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\TplDEmo\\Program.cs",
+              "RelativeDocumentMoniker": "TplDEmo\\Program.cs",
+              "ToolTip": "C:\\Users\\jahnvi.rawat\\Source\\Repos\\TplDEmo\\TplDEmo\\Program.cs",
+              "RelativeToolTip": "TplDEmo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:54:05.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

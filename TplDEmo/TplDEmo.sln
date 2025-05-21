@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TplDEmo", "TplDEmo\TplDEmo.csproj", "{433A4B67-93A7-4749-AE89-581734B6CC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherClass", "OtherClass\OtherClass.csproj", "{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433A4B67-93A7-4749-AE89-581734B6CC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433A4B67-93A7-4749-AE89-581734B6CC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433A4B67-93A7-4749-AE89-581734B6CC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433A4B67-93A7-4749-AE89-581734B6CC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399ABA9F-5E19-47F9-9874-B5DEF2D963BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E0D33BE-545D-4D0A-B1E5-404F97F8DFC9}
+	EndGlobalSection
+EndGlobal

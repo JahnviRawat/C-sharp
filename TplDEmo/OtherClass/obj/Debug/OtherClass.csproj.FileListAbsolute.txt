@@ -1,0 +1,6 @@
+C:\Users\jahnvi.rawat\Source\Repos\TplDEmo\OtherClass\bin\Debug\OtherClass.dll
+C:\Users\jahnvi.rawat\Source\Repos\TplDEmo\OtherClass\bin\Debug\OtherClass.pdb
+C:\Users\jahnvi.rawat\Source\Repos\TplDEmo\OtherClass\obj\Debug\OtherClass.csproj.AssemblyReference.cache
+C:\Users\jahnvi.rawat\Source\Repos\TplDEmo\OtherClass\obj\Debug\OtherClass.csproj.CoreCompileInputs.cache
+C:\Users\jahnvi.rawat\Source\Repos\TplDEmo\OtherClass\obj\Debug\OtherClass.dll
+C:\Users\jahnvi.rawat\Source\Repos\TplDEmo\OtherClass\obj\Debug\OtherClass.pdb

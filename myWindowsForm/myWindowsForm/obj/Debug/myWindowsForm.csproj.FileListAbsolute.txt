@@ -1,0 +1,14 @@
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\bin\Debug\myWindowsForm.exe.config
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\bin\Debug\myWindowsForm.exe
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\bin\Debug\myWindowsForm.pdb
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.csproj.AssemblyReference.cache
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.Form1.resources
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.Properties.Resources.resources
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.csproj.GenerateResource.cache
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.exe
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.pdb
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.Form2.resources
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.MyNotepad.resources
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.Form4.resources
+C:\Users\jahnvi.rawat\Source\Repos\myWindowsForm\myWindowsForm\obj\Debug\myWindowsForm.regexDemo.resources

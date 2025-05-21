@@ -1,0 +1,7 @@
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\bin\Debug\GOFPattern.exe.config
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\bin\Debug\GOFPattern.exe
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\bin\Debug\GOFPattern.pdb
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.csproj.AssemblyReference.cache
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.csproj.CoreCompileInputs.cache
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.exe
+C:\Users\jahnvi.rawat\Source\Repos\GOFPattern\GOFPattern\obj\Debug\GOFPattern.pdb

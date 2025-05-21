@@ -1,0 +1,7 @@
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\obj\Debug\practiceDemo.csproj.AssemblyReference.cache
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\obj\Debug\practiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\bin\Debug\practiceDemo.exe.config
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\bin\Debug\practiceDemo.exe
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\bin\Debug\practiceDemo.pdb
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\obj\Debug\practiceDemo.exe
+C:\Users\jahnvi.rawat\Source\Repos\practiceDemo\practiceDemo\obj\Debug\practiceDemo.pdb
